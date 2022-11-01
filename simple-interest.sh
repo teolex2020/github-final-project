@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Alex
+   # teolex2020
 
    # Input:
    # p, principal amount
